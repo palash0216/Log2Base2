@@ -1,0 +1,23 @@
+If we have elements like 2,4,6,8..
+we have to place these elements in the array likewise we are following the criteria : F(x)=x
+But this is not space efficient.
+Therefore we will use % (modulo) here.
+So it will always provide the index within the range
+F(x)=x%size;
+if we have to insert 24 in array of size 7
+then 24%7=3 therefore we insert it at 3
+if we have a array like :
+14 8 -1 24 -1 -1 -1     -> size 7
+and we want to search for 8
+then loc(in array)=data%size; -> 8%7=1 ->TRUE
+if we want to delete use the same forumula and replace the value by -1.
+what is collision in hashing?
+Two or more values were pointing the same location under %.
+How to Contorl Collision.
+Suppose we have an array.
+size =5 -> 10 -1 -1 13 9
+insert 15 -> 15%5=0 but 10 is already there -> collison occurs 
+if it happens than go for the next index.
+array -> 10 15 -1 13 9 
+now insert 20 same process will repeated again.
+In linear Probing If Collision Occur then we use F(x)=(x+i)%size where i=1,2,3,4,......

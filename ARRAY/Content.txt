@@ -1,0 +1,4 @@
+Q1:// Reverse a string without effecting the special character;
+Q2:// Removing duplicates from the sorted array;
+Q3.// Rotate array K times;
+Q$.// Rotate array k time REVERSAL METHOD;

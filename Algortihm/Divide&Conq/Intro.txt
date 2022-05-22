@@ -1,0 +1,6 @@
+Problem Can be diivided into multiple sub problems of the same type.
+Divide and Conq Stategy.
+1.Divide:Recursively break the problem into multiple subproblems of the same type.
+2.Conq: solving the sub problems.
+3.Combine:Arrive the main solution by combining the results of all the sub problems.
+ 

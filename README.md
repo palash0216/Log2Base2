@@ -8,5 +8,6 @@ I would like to share the Content which i was gone through in one year of log2ba
 <p><img src="https://github.com/palash0216/Log2Base2/blob/main/Algortihm/4.JPG"></p>
 <p><img src="https://github.com/palash0216/Log2Base2/blob/main/Algortihm/5.JPG"></p>
 <p><img src="https://github.com/palash0216/Log2Base2/blob/main/Algortihm/6.JPG"></p>
-<!-- <p><img src=" "></p> -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=39&height=56&lines=BitwiseOperators;Log2Base2)](https://git.io/typing-svg)
+<p><img src="https://github.com/palash0216/Log2Base2/blob/main/BitiwiseOperators/Problems.JPG"></p>
 <!-- <p><img src=" "></p> -->
